@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+02/26/20
 
 ### Project Title
-Replace the Project Title
+Visualization of Bikeshare data from US
 
 ### Description
-Describe what your project is about and what it does
+Analyze bikeshare data from three different cities of United States.
 
 ### Files used
-Include the files used
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
