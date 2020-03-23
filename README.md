@@ -13,3 +13,6 @@ Chicago, New York City and Washington DC Bikeshare Data.
 ### Credits
 The data was provided by Udacity, in the Nanodegree Program - Programming for Data Science with Python.
 
+### Contact
+Feel free to send an email to leovpachon@gmail.com if you have any questions.
+
