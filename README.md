@@ -1,5 +1,5 @@
 ### Date created
-02/26/2020
+02/26/20
 
 ### Project Title
 Visualization of Bikeshare data in US
